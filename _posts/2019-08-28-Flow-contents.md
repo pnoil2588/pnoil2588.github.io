@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Flow-based Generative Models"
 date: 2019-08-28 17:57:00 -0400
-categories: generative-model, normalizing-flow
+categories: generative-model normalizing-flow
 ---
 
 ## Contents
