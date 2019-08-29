@@ -18,7 +18,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Nohil Park's Blog
-  tagline: ph.D student at SNU
+  tagline: Ph.D. student at SNU
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
